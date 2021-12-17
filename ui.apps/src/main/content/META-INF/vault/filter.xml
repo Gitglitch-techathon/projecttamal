@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/projecttamal/clientlibs"/>
+    <filter root="/apps/projecttamal/components"/>
+    <filter root="/apps/projecttamal/i18n"/>
+    <filter root="/apps/msm/projecttamal_blueprint" mode="merge"/>
+</workspaceFilter>
